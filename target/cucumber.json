@@ -1,0 +1,106 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "line": 5,
+        "name": "Successful",
+        "description": "",
+        "id": "successful;successful",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 754137000,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "Open the application and click on Login button",
+            "match": {
+              "location": "SignUpSteps.open_the_application_and_click_on_Login_button()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 52400,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "Select the Country",
+            "match": {
+              "location": "SignUpSteps.select_the_Country()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 50500,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "Enter the Valid username and password",
+            "match": {
+              "location": "SignUpSteps.enter_the_Valid_username_and_password()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 70400,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "Click on login button",
+            "match": {
+              "location": "SignUpSteps.click_on_login_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 59400,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "Verify the Dashboard",
+            "match": {
+              "location": "SignUpSteps.verify_the_Dashboard()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 51600,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "Now Logout from the APP",
+            "match": {
+              "location": "SignUpSteps.now_Logout_from_the_APP()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "line": 4,
+            "name": "@successfulSignUp"
+          }
+        ]
+      }
+    ],
+    "name": "Successful",
+    "description": "",
+    "id": "successful",
+    "keyword": "Feature",
+    "uri": "features/SignUp.feature",
+    "tags": [
+      {
+        "line": 1,
+        "name": "@Regression"
+      }
+    ]
+  }
+]

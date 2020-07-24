@@ -1,0 +1,8 @@
+{
+  "deviceName":"Redmi",
+  "platformVersion":"9.0",
+  "platformName":"Android",
+  "automationName": "UiAutomator2",
+  "appActivity": "com.azam.sarafu.MainActivity",
+  "appPackage": "com.azam.sarafu"
+}
