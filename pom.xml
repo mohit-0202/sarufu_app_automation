@@ -14,7 +14,7 @@
         <selenium.version>3.0.1</selenium.version>
         <appium.version>4.1.2</appium.version>
         <cucumber.html.version>0.2.3</cucumber.html.version>
-        <commons.lang.version>3.1</commons.lang.version>
+        <commons.lang.version>3.18.0</commons.lang.version>
         <cucumber.pro.version>1.0.14</cucumber.pro.version>
         <totally.lazy.version>1.85</totally.lazy.version>
         <cucumber.reporting.version>0.0.24</cucumber.reporting.version>
